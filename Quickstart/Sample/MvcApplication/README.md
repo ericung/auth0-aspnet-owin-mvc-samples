@@ -15,3 +15,16 @@ If you have found a bug or if you have a feature request, please report them at 
 ## Author
 
 [Auth0](https://auth0.com)
+
+## Secrets.xml
+
+![Auth0](Content/secretsxml.png)
+
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <secrets ver="1.0">
+        <secret name="auth0:Domain" value="###" />
+        <secret name="auth0:ClientId" value="###" />
+        <secret name="auth0:ClientSecret" value="###" />
+    </secrets>
+</root>
