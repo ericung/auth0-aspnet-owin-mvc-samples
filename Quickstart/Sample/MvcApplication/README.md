@@ -20,6 +20,7 @@ If you have found a bug or if you have a feature request, please report them at 
 
 ![Auth0](Content/secretsxml.png)
 
+``` xml
 <?xml version="1.0" encoding="utf-8"?>
 <root>
     <secrets ver="1.0">
@@ -28,3 +29,4 @@ If you have found a bug or if you have a feature request, please report them at 
         <secret name="auth0:ClientSecret" value="###" />
     </secrets>
 </root>
+```
