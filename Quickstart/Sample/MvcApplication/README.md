@@ -18,7 +18,9 @@ If you have found a bug or if you have a feature request, please report them at 
 
 ## Secrets.xml
 
-![Auth0](Content/secretsxml.png)
+![Auth0](Content/auth0.png)
+
+![Secrets](Content/secretsxml.png)
 
 ``` xml
 <?xml version="1.0" encoding="utf-8"?>
